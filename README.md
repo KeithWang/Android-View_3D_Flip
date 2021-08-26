@@ -11,5 +11,5 @@ View 3D Flip.
 
 View
 ========================
-<img src="https://media.giphy.com/media/l3q2FK9Y02lHjvnHy/source.gif" align="left" height="250" width="150" >
+<img src="https://github.com/KeithWang/Android-View_3D_Flip/blob/master/view.gif" align="left" height="570" width="270" >
 
